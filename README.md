@@ -84,4 +84,4 @@ service cloud.firestore {
 
 ---
 
-*Crazy Cravings — Mobile Ice Cream Parlour · Ontario, Canada*
+*Crazy Cravings — Mobile Ice Cream Parlour · Ontario, Canada*  
